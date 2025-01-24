@@ -1,3 +1,3 @@
 this is for learning
-wellcome to my world
+welcome to my world
 python programming
